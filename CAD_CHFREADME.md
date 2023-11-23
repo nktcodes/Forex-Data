@@ -3,7 +3,7 @@
 This dataset is for the forex pair CAD-CHF.    
 This dataset looks at the **Daily** _Open_, _High_, _Low_, _Close_. 
 
-# Dataset Format  
+# Dataset Format      
 
 YYYY-MM-DD    
 
