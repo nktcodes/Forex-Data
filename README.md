@@ -9,3 +9,4 @@ The dataset is composed of the following pairs:
 * CAD-CHF
 * CAD-JPY
 * CHF-JPY
+* EUR-CAD
