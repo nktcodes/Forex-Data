@@ -14,3 +14,4 @@ The dataset is composed of the following pairs:
 * EUR-GBP
 * EUR-JPY
 * EUR-USD
+* GBP-CAD
