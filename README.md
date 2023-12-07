@@ -21,3 +21,4 @@ The dataset is composed of the following pairs:
 * USD-CAD
 * USD-CHF
 * USD-JPY
+* AUD-CAD
