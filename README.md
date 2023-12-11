@@ -25,3 +25,4 @@ The dataset is composed of the following pairs:
 * AUD-CHF
 * AUD-DKK
 * AUD-JPY
+* AUD-NZD
