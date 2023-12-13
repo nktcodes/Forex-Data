@@ -27,3 +27,4 @@ The dataset is composed of the following pairs:
 * AUD-JPY
 * AUD-NZD
 * AUD-PLN
+* AUD-SGN
