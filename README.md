@@ -28,3 +28,4 @@ The dataset is composed of the following pairs:
 * AUD-NZD
 * AUD-PLN
 * AUD-SGN
+* AUD-USD
