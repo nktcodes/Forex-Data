@@ -32,3 +32,4 @@ The dataset is composed of the following pairs:
 * CHF-PLN
 * CHF-SGD
 * EUR-AUD
+* EUR-CZK
