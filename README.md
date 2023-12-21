@@ -35,3 +35,4 @@ The dataset is composed of the following pairs:
 * EUR-CZK
 * EUR-DKK
 * EUR-HKD
+* EUR-HUF
