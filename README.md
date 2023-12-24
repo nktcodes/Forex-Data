@@ -38,3 +38,4 @@ The dataset is composed of the following pairs:
 * EUR-HUF
 * EUR-MXN
 * EUR-NOK
+* EUR-NZD
