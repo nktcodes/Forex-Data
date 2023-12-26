@@ -40,4 +40,4 @@ The dataset is composed of the following pairs:
 * EUR-NOK
 * EUR-NZD
 * EUR-PLN
-
+* EUR-RUB
