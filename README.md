@@ -43,3 +43,4 @@ The dataset is composed of the following pairs:
 * EUR-RUB
 * EUR-SEK
 * EUR-SGD
+* EUR-TRY
