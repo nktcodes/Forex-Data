@@ -48,3 +48,4 @@ The dataset is composed of the following pairs:
 * GBP-AUD
 * GBP-DKK
 * GBP-NOK
+* GBP-NZD
