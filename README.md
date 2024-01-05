@@ -50,3 +50,4 @@ The dataset is composed of the following pairs:
 * GBP-NOK
 * GBP-NZD
 * GBP-PLN
+* GBP-SEK
