@@ -52,3 +52,4 @@ The dataset is composed of the following pairs:
 * GBP-PLN
 * GBP-SEK
 * GBP-SGD
+* GBP-ZAR
