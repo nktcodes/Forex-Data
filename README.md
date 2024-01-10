@@ -54,4 +54,5 @@ The dataset is composed of the following pairs:
 * GBP-SGD
 * GBP-ZAR
 * NOK-SEK
-* NZD_CAD
+* NZD-CAD
+* NZD-CHF
