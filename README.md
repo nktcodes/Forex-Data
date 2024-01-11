@@ -56,3 +56,4 @@ The dataset is composed of the following pairs:
 * NOK-SEK
 * NZD-CAD
 * NZD-CHF
+* NZD-JPY
