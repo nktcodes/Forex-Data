@@ -57,3 +57,4 @@ The dataset is composed of the following pairs:
 * NZD-CAD
 * NZD-CHF
 * NZD-JPY
+* NZD-SGD
