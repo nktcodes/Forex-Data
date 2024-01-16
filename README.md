@@ -60,4 +60,5 @@ The dataset is composed of the following pairs:
 * NZD-SGD
 * NZD-USD
 * PLN-JPY
-* SGD_JPY
+* SGD-JPY
+* USD-CNH
