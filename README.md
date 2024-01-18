@@ -63,3 +63,4 @@ The dataset is composed of the following pairs:
 * SGD-JPY
 * USD-CNH
 * USD-CZK
+* USD-DKK
