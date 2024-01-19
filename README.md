@@ -64,3 +64,4 @@ The dataset is composed of the following pairs:
 * USD-CNH
 * USD-CZK
 * USD-DKK
+* USD-HKD
