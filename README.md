@@ -66,3 +66,4 @@ The dataset is composed of the following pairs:
 * USD-DKK
 * USD-HKD
 * USD-HUF
+* USD-ILS
