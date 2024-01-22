@@ -67,3 +67,4 @@ The dataset is composed of the following pairs:
 * USD-HKD
 * USD-HUF
 * USD-ILS
+* USD-MXN
