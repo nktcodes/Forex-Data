@@ -68,3 +68,4 @@ The dataset is composed of the following pairs:
 * USD-HUF
 * USD-ILS
 * USD-MXN
+* USD-NOK
