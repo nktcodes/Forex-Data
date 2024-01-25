@@ -70,3 +70,4 @@ The dataset is composed of the following pairs:
 * USD-MXN
 * USD-NOK
 * USD-PLN
+* USD-RUB
