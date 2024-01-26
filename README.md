@@ -71,3 +71,4 @@ The dataset is composed of the following pairs:
 * USD-NOK
 * USD-PLN
 * USD-RUB
+* USD-SEK
