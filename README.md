@@ -75,3 +75,4 @@ The dataset is composed of the following pairs:
 * USD-SGD
 * USD-THB
 * USD-TRY
+* USD-ZAR
